@@ -1,9 +1,6 @@
-
-
 from itertools import chain
 
 import numpy as np
-
 
 class DegenerateTriangle(Exception):
     pass
